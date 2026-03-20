@@ -6,9 +6,9 @@
 // API 配置
 const CONFIG = {
   // API Key
-  apiKey: 'sk-9587594c7ba046f980a95fd40141dfd2',
+  apiKey: '',
   // 百炼应用ID
-  appId: '024fa19eb5d5497caa83a118f0a406d1',
+  appId: '',
   // 模型名称（直接调用模型时使用）
   model: 'qwen3-max-2026-01-23',
   // API 端点
